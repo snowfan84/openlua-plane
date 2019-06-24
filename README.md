@@ -1,4 +1,4 @@
 # openlua
-OpenTX LUA telemetry script for use with Ardupilot
+OpenTX LUA telemetry script for use with Ardupilot - OpenTX 2.2 - Taranis X9d+
 
-Rename 'open.luac' to 'openlua.lua' before saving it to Taranis X9d+ SD Card /SCRIPTS/TELEMETRY/
+Copy the IMAGES/ , SCRIPTS/ , and SOUNDS/ folders to SD card.
