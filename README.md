@@ -13,7 +13,7 @@ OpenTX LUA telemetry script for use with Ardupilot - OpenTX 2.2 - Taranis X9d+
 ### TO USE ###
 Copy the IMAGES/ , SCRIPTS/ , and SOUNDS/ folders to SD card.  Select 'open' as a Screen Display (Display menu).  Hold the 'PAGE' button to switch between configured Screens.
 
-
+![display-config.png](display-config.png)
 
 ### History ###
 I began working on this in January 2018 after discovering the Craft and Theory cables and FlightDeck.  I decided to write my own lua script.
