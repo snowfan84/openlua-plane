@@ -2,6 +2,8 @@
 OpenTX LUA telemetry script for use with Ardupilot - OpenTX 2.2 - Taranis X9d+
 
 ![Main.png](Main.png)
+![Menu1.png](Menu1.png)
+![Menu2.png](Menu2.png)
 
 Copy the IMAGES/ , SCRIPTS/ , and SOUNDS/ folders to SD card.
 
